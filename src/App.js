@@ -31,7 +31,7 @@ class App extends Component {
 			
 			if(data.id === this.state.selected_content_id) {
 				return data;
-				break;
+				// break;
 			}
 
 			i++;
