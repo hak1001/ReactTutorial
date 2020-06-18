@@ -48,7 +48,7 @@ class UpdateContent extends Component {1
 							onChange={this.inputFormHandler}
 						></textarea></p>
 					<p><input type="submit"></input></p>
-				</form>
+				</form> 
 			</article>
 		);
 	}
